@@ -53,5 +53,5 @@ transparent spacer, and perhaps one in SVG.
 
 Todo
 
-  [ ] Transparent spacer
-  [ ] SVG spacer
+ - [ ] Transparent spacer
+ - [ ] SVG spacer
