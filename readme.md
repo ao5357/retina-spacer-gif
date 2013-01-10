@@ -50,3 +50,8 @@ This will ensure your site is compatible with IE5 and greater.
 
 Please file bugs and contribute pull requests. Specifically, we could use a
 transparent spacer, and perhaps one in SVG.
+
+Todo
+
+  [ ] Transparent spacer
+  [ ] SVG spacer
