@@ -6,7 +6,7 @@ high pixel density displays.
 
 ## Usage
 
-To use, replace you gifs with:
+To use, replace your gifs with:
 
 ``` html 
 <img src="spacer@2x.gif" style="height:1px;width:1px;" />
